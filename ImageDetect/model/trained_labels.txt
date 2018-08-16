@@ -1,0 +1,7 @@
+search found
+choose commander
+exchange power
+search begin
+begin attack
+search fail
+no queue
